@@ -1,0 +1,26 @@
+8888ba.88ba  oo dP                                                                                                       dP oo                     dP   oo
+88  `8b  `8b    88                                                                                                       88                        88
+88   88   88 dP 88  .dP  .d8888b. .d8888b.    .d8888b. dP    dP 88d888b. .d8888b. 88d888b.    .d8888b. 88d888b. 88d888b. 88 dP .d8888b. .d8888b. d8888P dP .d8888b. 88d888b.
+88   88   88 88 88888"   88ooood8 Y8ooooo.    Y8ooooo. 88    88 88'  `88 88ooood8 88'  `88    88'  `88 88'  `88 88'  `88 88 88 88'  `"" 88'  `88   88   88 88'  `88 88'  `88
+88   88   88 88 88  `8b. 88.  ...       88          88 88.  .88 88.  .88 88.  ... 88          88.  .88 88.  .88 88.  .88 88 88 88.  ... 88.  .88   88   88 88.  .88 88    88
+dP   dP   dP dP dP   `YP `88888P' `88888P'    `88888P' `88888P' 88Y888P' `88888P' dP          `88888P8 88Y888P' 88Y888P' dP dP `88888P' `88888P8   dP   dP `88888P' dP    dP
+                                                                88                                     88       88
+                                                                dP                                     dP       dP
+
+ ____________________
+< Version: ${application.version} >
+ --------------------
+  \
+${AnsiColor.YELLOW}   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+${AnsiColor.BLUE}           (__)\       )\/\
+               ||----w |
+               ||     ||
+
+${AnsiColor.BLACK}
+Application Version : ${application.version}
+Application Formatted Version : ${application.formatted-version}
+Application Title : ${application.title}
+Spring Boot Version : ${spring-boot.version}
+Spring Boot Formatted Version : ${spring-boot.formatted-version}

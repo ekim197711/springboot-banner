@@ -1,12 +1,13 @@
 plugins {
     id 'org.springframework.boot' version '2.1.7.RELEASE'
     id 'java'
+    id "com.zoltu.git-versioning" version "3.0.3"
 }
 
 apply plugin: 'io.spring.dependency-management'
 
 group = 'com.codeinvestigator'
-version = '0.0.1-SNAPSHOT'
+//version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '8'
 
 configurations {
